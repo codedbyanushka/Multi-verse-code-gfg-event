@@ -1,0 +1,221 @@
+{
+  "black-panther": {
+    "Black Panther": {
+      "aspectRatio": 0.5635103926096998,
+      "variants": {
+        "320": {
+          "webp": "/images/optimized/black-panther/Black Panther-320.webp",
+          "avif": "/images/optimized/black-panther/Black Panther-320.avif",
+          "width": 320
+        },
+        "640": {
+          "webp": "/images/optimized/black-panther/Black Panther-640.webp",
+          "avif": "/images/optimized/black-panther/Black Panther-640.avif",
+          "width": 640
+        },
+        "1024": {
+          "webp": "/images/optimized/black-panther/Black Panther-1024.webp",
+          "avif": "/images/optimized/black-panther/Black Panther-1024.avif",
+          "width": 1024
+        },
+        "1600": {
+          "webp": "/images/optimized/black-panther/Black Panther-1600.webp",
+          "avif": "/images/optimized/black-panther/Black Panther-1600.avif",
+          "width": 1600
+        },
+        "original": {
+          "webp": "/images/optimized/black-panther/Black Panther-original.webp",
+          "avif": "/images/optimized/black-panther/Black Panther-original.avif",
+          "width": 976
+        }
+      }
+    }
+  },
+  "captain-america": {
+    "Captain America": {
+      "aspectRatio": 0.5625,
+      "variants": {
+        "320": {
+          "webp": "/images/optimized/captain-america/Captain America-320.webp",
+          "avif": "/images/optimized/captain-america/Captain America-320.avif",
+          "width": 320
+        },
+        "640": {
+          "webp": "/images/optimized/captain-america/Captain America-640.webp",
+          "avif": "/images/optimized/captain-america/Captain America-640.avif",
+          "width": 640
+        },
+        "1024": {
+          "webp": "/images/optimized/captain-america/Captain America-1024.webp",
+          "avif": "/images/optimized/captain-america/Captain America-1024.avif",
+          "width": 1024
+        },
+        "1600": {
+          "webp": "/images/optimized/captain-america/Captain America-1600.webp",
+          "avif": "/images/optimized/captain-america/Captain America-1600.avif",
+          "width": 1600
+        },
+        "original": {
+          "webp": "/images/optimized/captain-america/Captain America-original.webp",
+          "avif": "/images/optimized/captain-america/Captain America-original.avif",
+          "width": 1080
+        }
+      }
+    }
+  },
+  "doctor-strange": {
+    "Doctor Strange": {
+      "aspectRatio": 0.5604203152364273,
+      "variants": {
+        "320": {
+          "webp": "/images/optimized/doctor-strange/Doctor Strange-320.webp",
+          "avif": "/images/optimized/doctor-strange/Doctor Strange-320.avif",
+          "width": 320
+        },
+        "1024": {
+          "webp": "/images/optimized/doctor-strange/Doctor Strange-1024.webp",
+          "avif": "/images/optimized/doctor-strange/Doctor Strange-1024.avif",
+          "width": 1024
+        },
+        "1600": {
+          "webp": "/images/optimized/doctor-strange/Doctor Strange-1600.webp",
+          "avif": "/images/optimized/doctor-strange/Doctor Strange-1600.avif",
+          "width": 1600
+        },
+        "original": {
+          "webp": "/images/optimized/doctor-strange/Doctor Strange-original.webp",
+          "avif": "/images/optimized/doctor-strange/Doctor Strange-original.avif",
+          "width": 640
+        }
+      }
+    }
+  },
+  "hulk": {
+    "Hulk": {
+      "aspectRatio": 0.5605293888672636,
+      "variants": {
+        "320": {
+          "webp": "/images/optimized/hulk/Hulk-320.webp",
+          "avif": "/images/optimized/hulk/Hulk-320.avif",
+          "width": 320
+        },
+        "640": {
+          "webp": "/images/optimized/hulk/Hulk-640.webp",
+          "avif": "/images/optimized/hulk/Hulk-640.avif",
+          "width": 640
+        },
+        "1024": {
+          "webp": "/images/optimized/hulk/Hulk-1024.webp",
+          "avif": "/images/optimized/hulk/Hulk-1024.avif",
+          "width": 1024
+        },
+        "1600": {
+          "webp": "/images/optimized/hulk/Hulk-1600.webp",
+          "avif": "/images/optimized/hulk/Hulk-1600.avif",
+          "width": 1600
+        },
+        "original": {
+          "webp": "/images/optimized/hulk/Hulk-original.webp",
+          "avif": "/images/optimized/hulk/Hulk-original.avif",
+          "width": 1440
+        }
+      }
+    }
+  },
+  "iron-man": {
+    "Iron Man": {
+      "aspectRatio": 0.5604566683964712,
+      "variants": {
+        "320": {
+          "webp": "/images/optimized/iron-man/Iron Man-320.webp",
+          "avif": "/images/optimized/iron-man/Iron Man-320.avif",
+          "width": 320
+        },
+        "640": {
+          "webp": "/images/optimized/iron-man/Iron Man-640.webp",
+          "avif": "/images/optimized/iron-man/Iron Man-640.avif",
+          "width": 640
+        },
+        "1024": {
+          "webp": "/images/optimized/iron-man/Iron Man-1024.webp",
+          "avif": "/images/optimized/iron-man/Iron Man-1024.avif",
+          "width": 1024
+        },
+        "1600": {
+          "webp": "/images/optimized/iron-man/Iron Man-1600.webp",
+          "avif": "/images/optimized/iron-man/Iron Man-1600.avif",
+          "width": 1600
+        },
+        "original": {
+          "webp": "/images/optimized/iron-man/Iron Man-original.webp",
+          "avif": "/images/optimized/iron-man/Iron Man-original.avif",
+          "width": 1080
+        }
+      }
+    }
+  },
+  "spider-man": {
+    "Spider Man": {
+      "aspectRatio": 0.5625,
+      "variants": {
+        "320": {
+          "webp": "/images/optimized/spider-man/Spider Man-320.webp",
+          "avif": "/images/optimized/spider-man/Spider Man-320.avif",
+          "width": 320
+        },
+        "640": {
+          "webp": "/images/optimized/spider-man/Spider Man-640.webp",
+          "avif": "/images/optimized/spider-man/Spider Man-640.avif",
+          "width": 640
+        },
+        "1024": {
+          "webp": "/images/optimized/spider-man/Spider Man-1024.webp",
+          "avif": "/images/optimized/spider-man/Spider Man-1024.avif",
+          "width": 1024
+        },
+        "1600": {
+          "webp": "/images/optimized/spider-man/Spider Man-1600.webp",
+          "avif": "/images/optimized/spider-man/Spider Man-1600.avif",
+          "width": 1600
+        },
+        "original": {
+          "webp": "/images/optimized/spider-man/Spider Man-original.webp",
+          "avif": "/images/optimized/spider-man/Spider Man-original.avif",
+          "width": 1080
+        }
+      }
+    }
+  },
+  "thor": {
+    "Thor": {
+      "aspectRatio": 0.5624673288029274,
+      "variants": {
+        "320": {
+          "webp": "/images/optimized/thor/Thor-320.webp",
+          "avif": "/images/optimized/thor/Thor-320.avif",
+          "width": 320
+        },
+        "640": {
+          "webp": "/images/optimized/thor/Thor-640.webp",
+          "avif": "/images/optimized/thor/Thor-640.avif",
+          "width": 640
+        },
+        "1024": {
+          "webp": "/images/optimized/thor/Thor-1024.webp",
+          "avif": "/images/optimized/thor/Thor-1024.avif",
+          "width": 1024
+        },
+        "1600": {
+          "webp": "/images/optimized/thor/Thor-1600.webp",
+          "avif": "/images/optimized/thor/Thor-1600.avif",
+          "width": 1600
+        },
+        "original": {
+          "webp": "/images/optimized/thor/Thor-original.webp",
+          "avif": "/images/optimized/thor/Thor-original.avif",
+          "width": 1076
+        }
+      }
+    }
+  }
+}
